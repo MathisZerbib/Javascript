@@ -1,0 +1,117 @@
+
+
+body{
+
+	background-image: url(https://img00.deviantart.net/d982/i/2010/119/7/2/earth_moon_texture_pack_by_zephroth.jpg);
+}
+
+
+
+#all{
+display: grid;;
+font-size: 12.5;
+grid-template:repeat(3, 8fr) / 33% 33%  33% ;
+grid-gap: 25rem;
+background-image: url(https://img00.deviantart.net/d982/i/2010/119/7/2/earth_moon_texture_pack_by_zephroth.jpg);
+width: 100%;
+
+}
+
+
+#wrapper{
+display: grid;
+width: 35rem;
+height:25rem;
+grid-gap: 2rem;
+font-size: 7rem;
+color: green;
+}
+
+
+
+
+
+#b1{
+grid-area: 1/1;
+background-image: url(https://members.loria.fr/FSur/enseignement/photo/mire_EOS6D_R400.png);
+background-size: 160px 110px;
+font-size: 2.5rem;
+color: green;
+}
+
+#b2{
+
+grid-area: 2/1;
+background-image: url(https://members.loria.fr/FSur/enseignement/photo/mire_EOS6D_R400.png);
+background-size: 160px 110px;
+font-size: 2.5rem;
+color: green;
+}
+#b3{
+
+grid-area: 3/1;
+background-image: url(https://members.loria.fr/FSur/enseignement/photo/mire_EOS6D_R400.png);
+background-size: 160px 110px;
+font-size: 2.5rem;
+color: green;
+}
+#b4{
+grid-area: 3/2;
+background-image: url(https://members.loria.fr/FSur/enseignement/photo/mire_EOS6D_R400.png);
+background-size: 160px 110px;
+font-size: 2.5rem;
+color: green;
+
+}
+#b5{
+
+grid-area: 2/2;
+background-image: url(https://members.loria.fr/FSur/enseignement/photo/mire_EOS6D_R400.png);
+background-size: 160px 110px;
+font-size: 2.5rem;
+color: green;
+}
+#b6{
+
+grid-area: 1/2;
+background-image: url(https://members.loria.fr/FSur/enseignement/photo/mire_EOS6D_R400.png);
+background-size: 160px 110px;
+font-size: 2.5rem;
+color: green;
+}
+#b7{
+
+grid-area: 1/3;
+background-image: url(https://members.loria.fr/FSur/enseignement/photo/mire_EOS6D_R400.png);
+background-size: 160px 110px;
+font-size: 2.5rem;
+color: green;
+}
+#b8{
+
+grid-area: 2/3;
+background-image: url(https://members.loria.fr/FSur/enseignement/photo/mire_EOS6D_R400.png);
+background-size: 160px 110px;
+font-size: 2.5rem;
+color: green;
+}
+#b9{
+grid-area: 3/3;
+background-image: url(https://members.loria.fr/FSur/enseignement/photo/mire_EOS6D_R400.png);
+background-size: 160px 110px;
+font-size: 2.5rem;
+color: green;
+
+}
+
+#foot{
+
+background-image: url(https://members.loria.fr/FSur/enseignement/photo/mire_EOS6D_R400.png);
+border-radius: 10% 10% 10% 10%;
+color: #ffffff;
+display: inline-block;
+text-align: center;
+font-size: 60px;
+font-family: serif;
+ 
+}
